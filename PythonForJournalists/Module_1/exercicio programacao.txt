@@ -1,0 +1,45 @@
+A programação é feita de Liguagem e Comandos. 
+
+Abaixo segue um exemplo de um programa simples para escovar os dentes. 
+
+Se o tubo de pasta estver vazio
+	pegar outro na dispensa
+Se não
+	pegar o tubo
+Pegar a escova
+Molhar a escova
+Abrir o tubo da pasta
+Apontar a ponta do tubo para a escova
+Apertar a pasta 
+Expremer a quantidade de pasta sufuciente para cobrir as cerdas da escova
+Recolocar a tampa da pasta
+Apertar a tampa da pasta
+Ligar a torneira
+Molhar a escova
+
+Observações: 
+Linguagem sem regras
+Nomes das coisas: variaveis
+Boas práticas
+Gruanularidade (nível)
+Estrutura de controle de fluxo: 
+	E se
+	Enquanto
+
+Fechar a toreira
+Direcionar a escova para a boca
+Abrir a boca
+Inserir a escova na boca na direção dos dentes
+Fazer movimentos circulares com as cerdas da escova contra os dentes
+Repetir dois movimentos circulares por dente
+Para a escovação
+Abrir a torneira
+Pegar um pouco de água
+Fechar a torneira
+Levar a boca
+Beber um pouco sem engolir
+Bochechar com a agua
+Cuspir a agua
+Fechar a pasta
+Lavar a escova
+Guardar a escova e pasta
